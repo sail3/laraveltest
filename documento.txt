@@ -1,0 +1,35 @@
+pagina de git
+github.com
+
+/rapiweb
+
+git init (enter)
+
+texto.sdf
+imagenes.ss
+estructura.a
+
+git add <nombre del archivo>
+git add -A
+
+
+git commit -m "<80 caracteres>"
+
+git add texto.sdf
+git commit -m "texto.sdf"
+
+gitk
+
+========== REMOTO
+
+git pull
+
+git push -originmaster
+
+git pull
+
+git fetch all
+
+
+
+test document now!!!!
